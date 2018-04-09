@@ -1,2 +1,2 @@
-# Binarne-drzewo-poszukiwa-
+# Binarne-drzewo-poszukiwan
 Binarne drzewo poszukiwań (BST)
